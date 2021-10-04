@@ -1,0 +1,358 @@
+[2021-09-20 18:47:55] [DEBUG] [OdontologoController:38] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-20 18:48:38] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 18:52:27] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 18:52:56] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 18:57:16] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 19:00:31] [DEBUG] [PacienteController:45] Iniciando el método 'actualizar' para pacientes 
+[2021-09-20 19:00:44] [DEBUG] [PacienteController:45] Iniciando el método 'actualizar' para pacientes 
+[2021-09-20 19:06:57] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 19:07:07] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 19:07:24] [DEBUG] [PacienteController:45] Iniciando el método 'actualizar' para pacientes 
+[2021-09-20 19:15:23] [DEBUG] [PacienteController:24] Iniciando el método 'buscarPorId' para pacientes 
+[2021-09-20 19:16:25] [DEBUG] [PacienteController:72] Iniciando el método 'consultarTodos' para pacientes 
+[2021-09-20 19:17:06] [DEBUG] [PacienteController:57] Iniciando el método 'eliminarPorId' para pacientes 
+[2021-09-20 19:17:14] [DEBUG] [PacienteController:57] Iniciando el método 'eliminarPorId' para pacientes 
+[2021-09-20 19:17:18] [DEBUG] [PacienteController:57] Iniciando el método 'eliminarPorId' para pacientes 
+[2021-09-20 19:17:27] [DEBUG] [PacienteController:72] Iniciando el método 'consultarTodos' para pacientes 
+[2021-09-20 19:46:53] [DEBUG] [PacienteController:37] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-20 19:47:26] [DEBUG] [PacienteController:45] Iniciando el método 'actualizar' para pacientes 
+[2021-09-20 19:47:34] [DEBUG] [PacienteController:45] Iniciando el método 'actualizar' para pacientes 
+[2021-09-22 15:16:42] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-22 15:16:46] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-22 15:17:16] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-22 15:17:45] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-22 15:21:22] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-22 16:12:25] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-22 16:12:51] [DEBUG] [OdontologoController:78] Iniciando el método 'consultarTodos' para odontólogos 
+[2021-09-22 16:13:06] [DEBUG] [PacienteController:78] Iniciando el método 'consultarTodos' para pacientes 
+[2021-09-22 16:13:45] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 21:56:46] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-23 21:57:03] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-23 21:58:27] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 21:59:15] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 22:02:14] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 22:04:13] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 22:09:10] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-23 22:09:18] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-23 22:09:25] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 22:11:50] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-23 22:19:46] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-23 22:19:53] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-23 22:19:57] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-24 14:18:08] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-24 14:18:16] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-24 14:18:38] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-24 14:21:05] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-24 14:47:47] [DEBUG] [OdontologoController:40] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-24 14:47:53] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-24 14:47:57] [DEBUG] [PacienteController:40] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-24 14:48:04] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-24 14:48:13] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-24 14:53:47] [DEBUG] [TurnoController:39] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 12:16:14] [DEBUG] [OdontologoController:41] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-25 12:16:22] [DEBUG] [PacienteController:41] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 12:16:30] [DEBUG] [TurnoController:40] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 12:53:32] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-25 12:53:37] [DEBUG] [PacienteController:41] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 12:53:41] [DEBUG] [TurnoController:40] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 12:53:54] [DEBUG] [TurnoController:40] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 13:02:20] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-25 13:02:24] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 13:02:31] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 13:02:55] [DEBUG] [PacienteController:82] Iniciando el método 'consultarTodos' para pacientes 
+[2021-09-25 13:03:40] [DEBUG] [TurnoController:79] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-25 13:18:55] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-25 13:19:00] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 13:19:07] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 13:19:14] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 13:20:57] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 13:22:25] [DEBUG] [TurnoController:63] Iniciando el método 'eliminarPorId' para turnos 
+[2021-09-25 13:22:33] [DEBUG] [TurnoController:63] Iniciando el método 'eliminarPorId' para turnos 
+[2021-09-25 13:22:47] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 13:22:59] [DEBUG] [OdontologoController:82] Iniciando el método 'consultarTodos' para odontólogos 
+[2021-09-25 13:23:09] [DEBUG] [OdontologoController:82] Iniciando el método 'consultarTodos' para odontólogos 
+[2021-09-25 13:23:36] [DEBUG] [PacienteController:82] Iniciando el método 'consultarTodos' para pacientes 
+[2021-09-25 13:23:50] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 13:24:21] [DEBUG] [TurnoController:79] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-25 13:26:17] [DEBUG] [TurnoController:79] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-25 13:27:34] [DEBUG] [TurnoController:31] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-25 13:27:43] [DEBUG] [TurnoController:31] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-25 13:28:03] [DEBUG] [TurnoController:31] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-25 16:21:35] [DEBUG] [TurnoController:31] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-25 16:21:42] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-25 16:21:48] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 16:21:52] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 16:22:04] [DEBUG] [TurnoController:79] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-25 16:22:09] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 16:29:01] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-25 16:29:06] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-25 16:29:09] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-25 16:29:28] [DEBUG] [TurnoController:31] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-25 16:29:54] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-26 23:20:37] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-26 23:20:46] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-26 23:20:51] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-26 23:21:11] [DEBUG] [TurnoController:79] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-26 23:21:22] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-26 23:22:50] [DEBUG] [TurnoController:43] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-26 23:23:31] [DEBUG] [TurnoController:79] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-26 23:52:06] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-26 23:52:13] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-26 23:52:21] [DEBUG] [TurnoController:41] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-26 23:58:47] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-26 23:58:51] [DEBUG] [TurnoController:41] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-26 23:58:58] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-26 23:59:03] [DEBUG] [TurnoController:41] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 00:10:37] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-27 00:10:42] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-27 00:10:46] [DEBUG] [TurnoController:41] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 00:11:07] [DEBUG] [TurnoController:77] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 00:11:31] [DEBUG] [TurnoController:41] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 14:20:25] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-27 14:20:34] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-27 14:20:39] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 14:20:58] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 14:21:15] [DEBUG] [TurnoController:78] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 14:24:38] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 14:25:16] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 14:42:19] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 14:56:00] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-27 14:56:30] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-27 14:57:21] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 15:03:37] [DEBUG] [TurnoController:78] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 17:43:52] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-27 17:43:57] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-27 17:44:01] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 17:44:08] [DEBUG] [TurnoController:78] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 17:46:00] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 20:28:21] [DEBUG] [OdontologoController:44] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-27 20:28:26] [DEBUG] [PacienteController:44] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-27 20:28:30] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 20:28:37] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 20:29:10] [ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.time.LocalDateTime` from String "2018-02-05T12:60:11.332": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2018-02-05T12:60:11.332' could not be parsed: Invalid value for MinuteOfHour (valid values 0 - 59): 60; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDateTime` from String "2018-02-05T12:60:11.332": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2018-02-05T12:60:11.332' could not be parsed: Invalid value for MinuteOfHour (valid values 0 - 59): 60
+ at [Source: (PushbackInputStream); line: 2, column: 14] (through reference chain: com.example.ProyectoIntegradorClinica.dto.TurnoDto["fecha"])
+[2021-09-27 20:29:53] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 20:30:00] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 20:30:13] [DEBUG] [TurnoController:42] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-27 20:31:38] [DEBUG] [TurnoController:50] Iniciando el método 'actualizar' para turnos 
+[2021-09-27 20:31:38] [ERROR] [GlobalExceptionHandler:17] Cannot invoke "com.example.ProyectoIntegradorClinica.dto.PacienteDto.getId()" because the return value of "com.example.ProyectoIntegradorClinica.dto.TurnoDto.getPaciente()" is null
+[2021-09-27 20:32:18] [DEBUG] [TurnoController:50] Iniciando el método 'actualizar' para turnos 
+[2021-09-27 20:36:29] [DEBUG] [TurnoController:50] Iniciando el método 'actualizar' para turnos 
+[2021-09-27 20:37:28] [DEBUG] [TurnoController:78] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 20:38:16] [DEBUG] [TurnoController:50] Iniciando el método 'actualizar' para turnos 
+[2021-09-27 20:38:37] [DEBUG] [TurnoController:50] Iniciando el método 'actualizar' para turnos 
+[2021-09-27 20:39:36] [DEBUG] [TurnoController:78] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 20:40:14] [DEBUG] [TurnoController:50] Iniciando el método 'actualizar' para turnos 
+[2021-09-27 20:40:19] [DEBUG] [TurnoController:78] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-27 20:43:11] [DEBUG] [TurnoController:30] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-27 20:43:24] [DEBUG] [TurnoController:30] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-27 20:43:39] [DEBUG] [TurnoController:62] Iniciando el método 'eliminarPorId' para turnos 
+[2021-09-27 20:43:47] [DEBUG] [TurnoController:62] Iniciando el método 'eliminarPorId' para turnos 
+[2021-09-29 12:27:49] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 12:27:56] [DEBUG] [PacienteController:46] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-29 12:28:07] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:28:30] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:28:30] [ERROR] [GlobalExceptionHandler:25] El odontólogo y/o el paciente ya tienen un turno agendado para ese día, en un intervalo de 10 minutos con respecto al horario del nuevo turno
+[2021-09-29 12:28:50] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:28:50] [ERROR] [GlobalExceptionHandler:31] No se encontró el paciente con id 2
+[2021-09-29 12:29:00] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:29:00] [ERROR] [GlobalExceptionHandler:19] The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+[2021-09-29 12:29:29] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:29:29] [ERROR] [GlobalExceptionHandler:25] El odontólogo y/o el paciente ya tienen un turno agendado para ese día, en un intervalo de 10 minutos con respecto al horario del nuevo turno
+[2021-09-29 12:30:04] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 12:30:13] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:30:13] [ERROR] [GlobalExceptionHandler:25] El odontólogo y/o el paciente ya tienen un turno agendado para ese día, en un intervalo de 10 minutos con respecto al horario del nuevo turno
+[2021-09-29 12:30:23] [DEBUG] [TurnoController:84] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-29 12:30:42] [DEBUG] [PacienteController:46] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-29 12:31:27] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 12:31:42] [DEBUG] [TurnoController:84] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-29 12:32:01] [DEBUG] [TurnoController:57] Iniciando el método 'actualizar' para turnos 
+[2021-09-29 12:32:01] [ERROR] [GlobalExceptionHandler:25] El odontólogo ya tiene un turno agendado para ese día, en un intervalo de 30 minutos con respecto al horario del nuevo turno
+[2021-09-29 12:32:30] [DEBUG] [TurnoController:57] Iniciando el método 'actualizar' para turnos 
+[2021-09-29 12:32:43] [DEBUG] [TurnoController:33] Iniciando el método 'buscarPorId' para turnos 
+[2021-09-29 12:32:58] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:33:04] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:33:04] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 3
+[2021-09-29 12:33:46] [ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "null"
+[2021-09-29 12:35:03] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:35:49] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:35:49] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 5
+[2021-09-29 12:36:31] [ERROR] [GlobalExceptionHandler:19] Required request body is missing: public org.springframework.http.ResponseEntity<com.example.ProyectoIntegradorClinica.dto.OdontologoDto> com.example.ProyectoIntegradorClinica.controller.restcontroller.imp.OdontologoController.crearNuevo(com.example.ProyectoIntegradorClinica.dto.OdontologoDto) throws com.example.ProyectoIntegradorClinica.Exception.ResourceNotFoundException,com.example.ProyectoIntegradorClinica.Exception.BadRequestException
+[2021-09-29 12:36:53] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 12:37:16] [ERROR] [GlobalExceptionHandler:19] Required request body is missing: public org.springframework.http.ResponseEntity<com.example.ProyectoIntegradorClinica.dto.OdontologoDto> com.example.ProyectoIntegradorClinica.controller.restcontroller.imp.OdontologoController.crearNuevo(com.example.ProyectoIntegradorClinica.dto.OdontologoDto) throws com.example.ProyectoIntegradorClinica.Exception.ResourceNotFoundException,com.example.ProyectoIntegradorClinica.Exception.BadRequestException
+[2021-09-29 12:37:26] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 12:38:53] [DEBUG] [TurnoController:92] Iniciando el método 'consultarTurnosProximaSemana' para turnos 
+[2021-09-29 12:39:02] [DEBUG] [TurnoController:84] Iniciando el método 'consultarTodos' para turnos 
+[2021-09-29 12:39:56] [DEBUG] [TurnoController:57] Iniciando el método 'actualizar' para turnos 
+[2021-09-29 12:40:07] [DEBUG] [TurnoController:92] Iniciando el método 'consultarTurnosProximaSemana' para turnos 
+[2021-09-29 12:41:04] [DEBUG] [TurnoController:57] Iniciando el método 'actualizar' para turnos 
+[2021-09-29 12:41:04] [ERROR] [GlobalExceptionHandler:25] El odontólogo ya tiene un turno agendado para ese día, en un intervalo de 30 minutos con respecto al horario del nuevo turno
+[2021-09-29 12:49:08] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 12:49:20] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 12:49:34] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:49:35] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 5
+[2021-09-29 12:49:48] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:49:57] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:50:03] [ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "null"
+[2021-09-29 12:50:18] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 12:50:18] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 0
+[2021-09-29 12:52:43] [DEBUG] [OdontologoController:59] Iniciando el método 'actualizar' para odontólogos 
+[2021-09-29 12:52:43] [ERROR] [GlobalExceptionHandler:25] No se puede actualizar un odontólogo con id null
+[2021-09-29 12:53:38] [ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "null"
+[2021-09-29 12:53:47] [DEBUG] [OdontologoController:72] Iniciando el método 'eliminarPorId' para odontólogos 
+[2021-09-29 12:53:47] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 0
+[2021-09-29 12:54:07] [DEBUG] [OdontologoController:72] Iniciando el método 'eliminarPorId' para odontólogos 
+[2021-09-29 13:56:14] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 13:56:42] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 13:56:49] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 13:56:49] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 0
+[2021-09-29 13:56:58] [ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "null"
+[2021-09-29 13:58:47] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 13:59:17] [ERROR] [GlobalExceptionHandler:19] Required request body is missing: public org.springframework.http.ResponseEntity<com.example.ProyectoIntegradorClinica.dto.OdontologoDto> com.example.ProyectoIntegradorClinica.controller.restcontroller.imp.OdontologoController.crearNuevo(com.example.ProyectoIntegradorClinica.dto.OdontologoDto) throws com.example.ProyectoIntegradorClinica.Exception.ResourceNotFoundException,com.example.ProyectoIntegradorClinica.Exception.BadRequestException
+[2021-09-29 14:06:15] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 14:06:34] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 14:06:34] [ERROR] [GlobalExceptionHandler:25] El id del odontólogo no puede ser un número negativo
+[2021-09-29 14:06:43] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-29 14:06:44] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 0
+[2021-09-29 14:07:21] [ERROR] [GlobalExceptionHandler:19] Required request body is missing: public org.springframework.http.ResponseEntity<com.example.ProyectoIntegradorClinica.dto.OdontologoDto> com.example.ProyectoIntegradorClinica.controller.restcontroller.imp.OdontologoController.crearNuevo(com.example.ProyectoIntegradorClinica.dto.OdontologoDto) throws com.example.ProyectoIntegradorClinica.Exception.ResourceNotFoundException,com.example.ProyectoIntegradorClinica.Exception.BadRequestException
+[2021-09-29 14:07:30] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 14:07:30] [ERROR] [GlobalExceptionHandler:25] No se puede crear un odontólogo parámetros en null
+[2021-09-29 14:07:57] [ERROR] [GlobalExceptionHandler:19] JSON parse error: Unexpected character ('}' (code 125)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: (PushbackInputStream); line: 5, column: 2]
+[2021-09-29 14:08:06] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 14:08:06] [ERROR] [GlobalExceptionHandler:25] No se puede crear un odontólogo parámetros en null
+[2021-09-29 14:08:13] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 16:16:06] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-29 16:16:20] [DEBUG] [PacienteController:46] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-29 16:16:20] [ERROR] [GlobalExceptionHandler:25] No se puede crear un paciente con parametros en null
+[2021-09-29 16:16:42] [DEBUG] [PacienteController:46] Iniciando el método 'crearNuevo' para pacientes 
+[2021-09-29 16:16:53] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 16:16:54] [ERROR] [GlobalExceptionHandler:31] No se encontró el paciente con id 2
+[2021-09-29 16:17:10] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 16:17:10] [ERROR] [GlobalExceptionHandler:25] No se puede crear un turno con parámetros en null
+[2021-09-29 16:17:23] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 16:17:23] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 2
+[2021-09-29 16:19:54] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 16:20:07] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 16:20:07] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 2
+[2021-09-29 16:20:16] [DEBUG] [TurnoController:45] Iniciando el método 'crearNuevo' para turnos 
+[2021-09-29 16:20:16] [ERROR] [GlobalExceptionHandler:25] El odontólogo y/o el paciente ya tienen un turno agendado para ese día, en un intervalo de 10 minutos con respecto al horario del nuevo turno
+[2021-09-30 18:44:08] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 18:58:41] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 19:18:48] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 19:18:48] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 1
+[2021-09-30 19:18:49] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 19:18:49] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 19:36:02] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 19:36:03] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 1
+[2021-09-30 19:36:04] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 19:36:04] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 19:54:59] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:03:32] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:21:48] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 20:21:48] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 1
+[2021-09-30 20:21:49] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:21:50] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:24:12] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 20:24:12] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 1
+[2021-09-30 20:24:13] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:24:13] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:26:46] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 20:26:46] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 1
+[2021-09-30 20:26:47] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:26:47] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:32:27] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 20:32:28] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 2
+[2021-09-30 20:32:29] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:32:29] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:41:32] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 20:41:33] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 2
+[2021-09-30 20:41:34] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:41:35] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:47:40] [DEBUG] [OdontologoController:32] Iniciando el m�todo 'buscarPorId' para odont�logos 
+[2021-09-30 20:47:40] [ERROR] [GlobalExceptionHandler:31] No se encontr� el odont�logo con id 2
+[2021-09-30 20:47:41] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-09-30 20:47:42] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-09-30 20:53:06] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:56:04] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:59:47] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 20:59:47] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 21:08:26] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 21:08:27] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 2
+[2021-09-30 21:08:28] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:08:28] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:29:03] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:33:37] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:33:38] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 21:33:38] [ERROR] [GlobalExceptionHandler:31] No se encontró el odontólogo con id 3
+[2021-09-30 21:33:38] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:33:38] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:43:25] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:43:25] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:43:25] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:43:25] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-09-30 21:53:25] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:53:25] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:53:26] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-09-30 21:53:26] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-10-01 13:37:45] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-01 13:37:46] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-01 13:37:46] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-01 13:37:46] [DEBUG] [OdontologoController:32] Iniciando el m�todo 'buscarPorId' para odont�logos 
+[2021-10-03 12:52:14] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 12:52:14] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 12:52:15] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 12:52:15] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-10-03 12:55:57] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 12:55:58] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 12:55:58] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 12:55:58] [DEBUG] [OdontologoController:32] Iniciando el m�todo 'buscarPorId' para odont�logos 
+[2021-10-03 13:42:28] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 13:42:29] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 13:42:29] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 13:42:29] [DEBUG] [OdontologoController:32] Iniciando el m�todo 'buscarPorId' para odont�logos 
+[2021-10-03 13:46:04] [DEBUG] [OdontologoController:87] Iniciando el método 'consultarTodos' para odontólogos 
+[2021-10-03 13:59:56] [DEBUG] [UsuarioController:35] Iniciando el método 'consultarTodos' para usuarios 
+[2021-10-03 14:37:33] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:37:33] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:37:33] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:37:34] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-10-03 14:37:34] [DEBUG] [OdontologoController:59] Iniciando el método 'actualizar' para odontólogos 
+[2021-10-03 14:37:34] [DEBUG] [OdontologoController:72] Iniciando el método 'eliminarPorId' para odontólogos 
+[2021-10-03 14:39:16] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:39:17] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:39:17] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:39:17] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-10-03 14:39:18] [DEBUG] [OdontologoController:59] Iniciando el método 'actualizar' para odontólogos 
+[2021-10-03 14:39:18] [DEBUG] [OdontologoController:72] Iniciando el método 'eliminarPorId' para odontólogos 
+[2021-10-03 14:41:01] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:41:01] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:41:01] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
+[2021-10-03 14:41:02] [DEBUG] [OdontologoController:32] Iniciando el método 'buscarPorId' para odontólogos 
+[2021-10-03 14:41:02] [DEBUG] [OdontologoController:59] Iniciando el método 'actualizar' para odontólogos 
+[2021-10-03 14:41:02] [DEBUG] [OdontologoController:72] Iniciando el método 'eliminarPorId' para odontólogos 
+[2021-10-03 14:43:40] [DEBUG] [OdontologoController:87] Iniciando el método 'consultarTodos' para odontólogos 
+[2021-10-03 14:43:46] [DEBUG] [TurnoController:86] Iniciando el método 'consultarTodos' para turnos 
+[2021-10-03 14:43:54] [DEBUG] [UsuarioController:35] Iniciando el método 'consultarTodos' para usuarios 
+[2021-10-03 18:09:09] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 18:09:10] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 18:09:10] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 18:09:10] [DEBUG] [OdontologoController:32] Iniciando el m�todo 'buscarPorId' para odont�logos 
+[2021-10-03 18:09:11] [DEBUG] [OdontologoController:59] Iniciando el m�todo 'actualizar' para odont�logos 
+[2021-10-03 18:09:11] [DEBUG] [OdontologoController:72] Iniciando el m�todo 'eliminarPorId' para odont�logos 
+[2021-10-03 18:16:15] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 18:16:16] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 18:16:16] [DEBUG] [OdontologoController:46] Iniciando el m�todo 'crearNuevo' para odont�logos 
+[2021-10-03 18:16:16] [DEBUG] [OdontologoController:32] Iniciando el m�todo 'buscarPorId' para odont�logos 
+[2021-10-03 18:16:17] [DEBUG] [OdontologoController:59] Iniciando el m�todo 'actualizar' para odont�logos 
+[2021-10-03 18:16:18] [DEBUG] [OdontologoController:72] Iniciando el m�todo 'eliminarPorId' para odont�logos 
+[2021-10-03 18:22:29] [ERROR] [GlobalExceptionHandler:19] Request method 'GET' not supported
+[2021-10-03 18:22:39] [DEBUG] [TurnoController:86] Iniciando el método 'consultarTodos' para turnos 
+[2021-10-03 18:23:51] [DEBUG] [UsuarioController:35] Iniciando el método 'consultarTodos' para usuarios 
+[2021-10-03 18:24:16] [DEBUG] [TurnoController:86] Iniciando el método 'consultarTodos' para turnos 
+[2021-10-03 18:24:33] [DEBUG] [TurnoController:86] Iniciando el método 'consultarTodos' para turnos 
+[2021-10-03 18:24:35] [DEBUG] [TurnoController:86] Iniciando el método 'consultarTodos' para turnos 
+[2021-10-03 18:24:41] [ERROR] [GlobalExceptionHandler:19] Request method 'GET' not supported
+[2021-10-03 20:50:34] [DEBUG] [UsuarioController:35] Iniciando el método 'consultarTodos' para usuarios 
+[2021-10-03 20:51:54] [ERROR] [GlobalExceptionHandler:19] Required request body is missing: public org.springframework.http.ResponseEntity<com.example.ProyectoIntegradorClinica.dto.OdontologoDto> com.example.ProyectoIntegradorClinica.controller.restcontroller.imp.OdontologoController.crearNuevo(com.example.ProyectoIntegradorClinica.dto.OdontologoDto) throws com.example.ProyectoIntegradorClinica.Exception.ResourceNotFoundException,com.example.ProyectoIntegradorClinica.Exception.BadRequestException
+[2021-10-03 20:53:00] [DEBUG] [OdontologoController:46] Iniciando el método 'crearNuevo' para odontólogos 
